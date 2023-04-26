@@ -30,6 +30,10 @@ function App() {
       </p>
       <span>Spiderman </span>
       <p>Doctor strange</p>
+      <p>Doctor strange</p>
+      <p>Doctor strange</p>
+      <p>Doctor strange</p>
+      <p>Doctor strange</p>
     </>
   )
 }
